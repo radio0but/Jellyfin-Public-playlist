@@ -6,9 +6,9 @@ A script to convert a user made playlist to a m3u file that can be shared public
 
 Once you created a playlist in jellyfin go to /var/lib/jellyfin/data/playlists/ copy the folder 
 
-with your playlist in your music media folder. 
+with your playlist in your music library media folder. 
 
-Then delete the iibrary in jellyfin interface 
+Then delete the playlist in jellyfin interface 
 
 put the xmlToM3u.sh script inside the folder you copied in your media folder
 

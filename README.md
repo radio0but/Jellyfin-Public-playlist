@@ -1,5 +1,7 @@
 # Jellyfin-Public-playlist
 ONLY WORKS ON Linux 
+
+
 A script to convert a user made playlist to a m3u file that can be shared publicly
 
 Once you created a playlist in jellyfin go to /var/lib/jellyfin/data/playlists/ copy the folder 

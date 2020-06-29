@@ -8,7 +8,7 @@ Once you created a playlist in jellyfin go to /var/lib/jellyfin/data/playlists/ 
 
 with your playlist in your music library media folder. 
 
-Then delete the playlist in jellyfin interface 
+Then delete the playlist in jellyfin web interface 
 
 put the xmlToM3u.sh script inside the folder you copied in your media folder
 
